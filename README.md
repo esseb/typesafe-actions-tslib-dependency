@@ -1,9 +1,9 @@
 # Steps to reproduce
 
-0. Clone this repo
-1. Run `npm install`
-2. Run `npm run build`
-3. Run `node dist/index.js`
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm run build`
+4. Run `node dist/index.js`
 
 # Expected result:
 
