@@ -29,3 +29,7 @@ Error: Cannot find module 'tslib'
     at tryModuleLoad (internal/modules/cjs/loader.js:537:12)
     at Function.Module._load (internal/modules/cjs/loader.js:529:3)
 ```
+
+# Further information
+
+If you run `npm add tslib` and then run `node dist/index.js` again the error disappears.
