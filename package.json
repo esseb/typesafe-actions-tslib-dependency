@@ -1,0 +1,15 @@
+{
+  "name": "typesafe-actions-tslib-dependency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc src/index.ts --outDir dist"
+  },
+  "author": "Stein Cato Blostrupmoen <esseb@esseb.com> (https://esseb.com)",
+  "license": "ISC",
+  "dependencies": {
+    "typesafe-actions": "^4.2.0",
+    "typescript": "^3.4.5"
+  }
+}
